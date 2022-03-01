@@ -1,0 +1,359 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An honest mans delight: or Knavery made known. When truth and honesty are joyn'd together ... To the tune of, I'le hold thee five shillings.</title>
+            <author>T. J.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641-1674?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03878</idno>
+            <idno type="STC">Wing J37A</idno>
+            <idno type="STC">ESTC R179163</idno>
+            <idno type="EEBO-CITATION">53299127</idno>
+            <idno type="OCLC">ocm 53299127</idno>
+            <idno type="VID">179880</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03878)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179880)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2807:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An honest mans delight: or Knavery made known. When truth and honesty are joyn'd together ... To the tune of, I'le hold thee five shillings.</title>
+                  <author>T. J.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.) ; ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Burton ...,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1641-1674]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains title ornament and 2 woodcut illustrations.</note>
+                  <note>Text in black letter.</note>
+                  <note>Signed at end: T.J.</note>
+                  <note>Date range suggested by Wing (2nd ed.)</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:179880:1"/>
+            <!-- PDF PAGE 17 -->
+            <head>An Honeſt mans delight:</head>
+            <head type="sub">OR Knavery made known.</head>
+            <argument>
+               <l>When truth and honeſty are joyn'd together</l>
+               <l>They make a man fear neither wind nor weather</l>
+               <l>He goes about his buſineſs with delight</l>
+               <l>Becauſe its always honeſt juſt and right</l>
+               <l>He covets nothing for he is content</l>
+               <l>With that ſame portion which is to him ſent,</l>
+               <l>And owns this truth for cannot be deny'd</l>
+               <l>He's true and honeſt, then let the world ſlide.</l>
+            </argument>
+            <opener>To the Tune of, I'le hold thee Five Shillings.</opener>
+            <lg>
+               <l>I Have béen a travellor</l>
+               <l>Thi<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ty three years,</l>
+               <l>And ſeen many paſſages</l>
+               <l>
+                  <unclear>As</unclear> it appears</l>
+               <l>The Proverb ſaith great Fiſhes</l>
+               <l>Eats up the ſmall,</l>
+               <l>And ſome men devours</l>
+               <l>Widdows houſes and all,</l>
+               <l>Such covetous Cormorants</l>
+               <l>I can't abide,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>I'me poor true and honeſt,</hi>
+                  </l>
+                  <l>
+                     <hi>Then let the world ſlid.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>I have hea<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d how ſome Land-Lords</l>
+               <l>Their Tenants make poor,</l>
+               <l>By raiſing their Rents for to</l>
+               <l>Maintain a Whore,</l>
+               <l>For whoreings ith faſhion</l>
+               <l>At this preſent time,</l>
+               <l>Some great ones ith nation</l>
+               <l>Are gui<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ty oth Crime.</l>
+               <l>When they hear theſe verſes.</l>
+               <l>They will me deride,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>I'me poor true and honeſt</hi>
+                  </l>
+                  <l>
+                     <hi>Then let the world ſlide.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Terme time Size and Seſſions</l>
+               <l>What doings is made,</l>
+               <l>Twixt Lawyer and Cliant</l>
+               <l>In matter of trade,</l>
+               <l>Their money muſt down ere</l>
+               <l>A word can be ſpoke</l>
+               <l>Becauſe that each Lawyer</l>
+               <l>Muſt néeds have a Cloak,</l>
+               <l>You know what I mean therefore</l>
+               <l>Dont me deride,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>I'me both true and honeſt</hi>
+                  </l>
+                  <l>
+                     <hi>Then let the world ſlide.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>A wiſe man had better to</l>
+               <l>Pocket up wrong,</l>
+               <l>Then be amongſt Lawyers</l>
+               <l>In midſt of their throng</l>
+               <l>With your Adverſary</l>
+               <l>Agree if you pleaſe</l>
+               <l>Becauſe that the Cure is worſe</l>
+               <l>Then the diſeaſe.</l>
+               <l>Therefore take my counſell</l>
+               <l>What ever betide,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>For i'me true and honeſt</hi>
+                  </l>
+                  <l>
+                     <hi>Then let the world ſlide.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <pb facs="tcp:179880:1"/>
+            <!-- PDF PAGE 17 -->
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>IF all men were like mo</l>
+               <l>Wee'd take ſuch a courſe</l>
+               <l>Two Lawyers compleatly</l>
+               <l>Should ride on one horſe</l>
+               <l>If men were but honeſt</l>
+               <l>And would live in awe</l>
+               <l>A good conſcience might rule them</l>
+               <l>As well as the Law</l>
+               <l>For ſtrife and contention</l>
+               <l>I cannot abide</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>I'me both true and honeſt</hi>
+                  </l>
+                  <l>
+                     <hi>Then let the world ſlide.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Don't miſunderſtand me</l>
+               <l>I am no contender,</l>
+               <l>'Gainſt Law for tis good for to</l>
+               <l>Puniſh th'offender,</l>
+               <l>For knaves there is ſtill boys</l>
+               <l>And will to be ſure,</l>
+               <l>So long as the Sun and the</l>
+               <l>Moon doth endure,</l>
+               <l>Then finde them and taxe um</l>
+               <l>And let them be try'd</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>For i'me true and honeſt</hi>
+                  </l>
+                  <l>
+                     <hi>Then let the world ſlide.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Baſe filching and ſtealing</l>
+               <l>I ever abhor'd,</l>
+               <l>With Couzening and Cheating</l>
+               <l>I may thank the Lord,</l>
+               <l>In Corporate places</l>
+               <l>I dare ſhow my face,</l>
+               <l>When gallanter fellows</l>
+               <l>Are put to diſgrace,</l>
+               <l>I fear no town Searjeant</l>
+               <l>Nor Conſtables guide,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>I'm both true and honeſt</hi>
+                  </l>
+                  <l>
+                     <hi>Then let the world ſlide.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>I am no ſuch fellow</l>
+               <l>That feign would be rich</l>
+               <l>The love of much money</l>
+               <l>My heart can't bewitch.</l>
+               <l>If I have but money</l>
+               <l>My wants to ſupply,</l>
+               <l>I am better then they that have</l>
+               <l>Thouſands lye by,</l>
+               <l>For they'r always whyning</l>
+               <l>And nere ſatisfi'd</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Whilſt i'me true and honeſt</hi>
+                  </l>
+                  <l>
+                     <hi>Then let the world ſlide.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>I wonder that men are ſo</l>
+               <l>Filled with cares,</l>
+               <l>T'and doteth ſo much on theſe</l>
+               <l>Worldly affairs,</l>
+               <l>For Rich men and Wiſe men</l>
+               <l>And ſtrong men muſt dye,</l>
+               <l>The Prince and the Peaſant</l>
+               <l>In graves they muſt lye,</l>
+               <l>I value not Riches, nor</l>
+               <l>Honour nor Pride,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>For i'me true and honeſt</hi>
+                  </l>
+                  <l>
+                     <hi>Then let the world ſlide.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>I aske but this queſtion</l>
+               <l>Of any ſtout Hector</l>
+               <l>If he knows what's become of</l>
+               <l>Old Noll the Protector,</l>
+               <l>Which once here in <hi>England</hi>
+               </l>
+               <l>Was a great commander</l>
+               <l>And Conquer'd us Brittains</l>
+               <l>Like great <hi>Alexander,</hi>
+               </l>
+               <l>But now all his honours</l>
+               <l>Are quite laid aſide,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Yet i'me true and honeſt</hi>
+                  </l>
+                  <l>
+                     <hi>Then let the world ſlide.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <signed>T. J.</signed>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, Printed for R. Burton at the Horſe-ſhooe in Weſt Smith-fi<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
